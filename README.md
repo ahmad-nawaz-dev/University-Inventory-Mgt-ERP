@@ -1,6 +1,5 @@
 # University Inventory & Asset Management System (Innovation Edition)
 
-<<<<<<< HEAD
 An enterprise-grade, role-based University Inventory and Asset Management System built with PHP and MySQL. Designed to handle the complete lifecycle of university assets—from faculty procurement requests, through financial approvals, physical receipt, allocation, and final deadstock/scrap disposal. 
 
 Features a modern, fluid "Glassmorphic" UI with a standardized dark-mode theme utilizing Vanilla CSS and Bootstrap 5.
